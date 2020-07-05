@@ -1,0 +1,290 @@
+{
+   "SpecialEvent":{
+      "Stage1":{
+         "Rank":"-",
+         "Car":"Ferrari LaFerrari Aperta (Free Try)",
+         "Rewards":{
+            "Packs":"3",
+            "Solo BPS":"9",
+            "Club BPS":"1",
+            "Credits":"500000",
+            "Tokens":"500"
+         }
+      },
+      "Stage2":{
+         "Rank":"-",
+         "Car":"BMW Z4 LCI E89",
+         "Rewards":{
+            "Packs":"2",
+            "Solo BPS":"3",
+            "Club BPS":"0",
+            "Credits":"200000",
+            "Tokens":"0"
+         }
+      },
+      "Stage3":{
+         "Rank":"-",
+         "Car":"Chevrolet Corvette Grand Sport",
+         "Rewards":{
+            "Packs":"2",
+            "Solo BPS":"5",
+            "Club BPS":"0",
+            "Credits":"200000",
+            "Tokens":"0"
+         }
+      },
+      "Stage4":{
+         "Rank":"-",
+         "Car":"Ferrari J50",
+         "Rewards":{
+            "Packs":"2",
+            "Solo BPS":"4",
+            "Club BPS":"0",
+            "Credits":"200000",
+            "Tokens":"150"
+         }
+      },
+      "Stage5":{
+         "Rank":"-",
+         "Car":"Ferrari LaFerrari Aperta (Free Try)",
+         "Rewards":{
+            "Packs":"2",
+            "Solo BPS":"4",
+            "Club BPS":"1",
+            "Credits":"500000",
+            "Tokens":"500"
+         }
+      },
+      "Stage6":{
+         "Rank":"-",
+         "Car":"-",
+         "Rewards":{
+            "Packs":"0",
+            "Solo BPS":"3xPorsche 911 4s + 500 Packs",
+            "Club BPS":"2",
+            "Credits":"0",
+            "Tokens":"0"
+         }
+      },
+      "Stage7":{
+         "Rank":"2100",
+         "Car":"Mercedes-Benz SLR McLaren",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"4",
+            "Club BPS":"1",
+            "Credits":"200000",
+            "Tokens":"0"
+         }
+      },
+      "Stage8":{
+         "Rank":"2200",
+         "Car":"Lamborghini Huracan Evo Spyder",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"4",
+            "Club BPS":"1",
+            "Credits":"200000",
+            "Tokens":"0"
+         }
+      },
+      "Stage9":{
+         "Rank":"2600",
+         "Car":"McLaren 570s Spider",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"4",
+            "Club BPS":"1",
+            "Credits":"200000",
+            "Tokens":"0"
+         }
+      },
+      "Stage10":{
+         "Rank":"2600",
+         "Car":"Lamborghini Aventador J",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"4",
+            "Club BPS":"1",
+            "Credits":"200000",
+            "Tokens":"0"
+         }
+      },
+      "Stage11":{
+         "Rank":"-",
+         "Car":"Ferrari LaFerrari Aperta",
+         "Rewards":{
+            "Packs":"0",
+            "Solo BPS":"0",
+            "Club BPS":"0",
+            "Credits":"600000",
+            "Tokens":"0"
+         }
+      },
+      "Stage12":{
+         "Rank":"3000",
+         "Car":"Mercedes-Benz SLR McLaren",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"5",
+            "Club BPS":"0",
+            "Credits":"200000",
+            "Tokens":"0"
+         }
+      },
+      "Stage13":{
+         "Rank":"3000",
+         "Car":"Lamborghini Huracan Evo Spyder",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"6",
+            "Club BPS":"0",
+            "Credits":"200000",
+            "Tokens":"0"
+         }
+      },
+      "Stage14":{
+         "Rank":"3300",
+         "Car":"McLaren 570s Spider",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"6",
+            "Club BPS":"0",
+            "Credits":"200000",
+            "Tokens":"0"
+         }
+      },
+      "Stage15":{
+         "Rank":"3300",
+         "Car":"Lamborghini Aventador J",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"6",
+            "Club BPS":"0",
+            "Credits":"200000",
+            "Tokens":"0"
+         }
+      },
+      "Stage16":{
+         "Rank":"3300",
+         "Car":"Ferrari LaFerrari Aperta",
+         "Rewards":{
+            "Packs":"0",
+            "Solo BPS":"0",
+            "Club BPS":"0",
+            "Credits":"800000",
+            "Tokens":"1000"
+         }
+      },
+      "Stage17":{
+         "Rank":"3300",
+         "Car":"Mercedes-Benz SLR McLaren",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"6",
+            "Club BPS":"0",
+            "Credits":"200000",
+            "Tokens":"0"
+         }
+      },
+      "Stage18":{
+         "Rank":"3500",
+         "Car":"Lamborghini Huracan Evo Spyder",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"7",
+            "Club BPS":"0",
+            "Credits":"200000",
+            "Tokens":"0"
+         }
+      },
+      "Stage19":{
+         "Rank":"3600",
+         "Car":"McLaren 570s Spider",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"7",
+            "Club BPS":"0",
+            "Credits":"200000",
+            "Tokens":"0"
+         }
+      },
+      "Stage20":{
+         "Rank":"3700",
+         "Car":"Lamborghini Aventador J",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"7",
+            "Club BPS":"0",
+            "Credits":"200000",
+            "Tokens":"0"
+         }
+      },
+      "Stage21":{
+         "Rank":"3500",
+         "Car":"Ferrari LaFerrari Aperta",
+         "Rewards":{
+            "Packs":"0",
+            "Solo BPS":"0",
+            "Club BPS":"0",
+            "Credits":"1000000",
+            "Tokens":"1200"
+         }
+      },
+      "Stage22":{
+         "Rank":"3850",
+         "Car":"Mercedes-Benz SLR McLaren",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"9",
+            "Club BPS":"0",
+            "Credits":"250000",
+            "Tokens":"0"
+         }
+      },
+      "Stage23":{
+         "Rank":"3900",
+         "Car":"Lamborghini Huracan Evo Spyder",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"9",
+            "Club BPS":"0",
+            "Credits":"250000",
+            "Tokens":"0"
+         }
+      },
+      "Stage24":{
+         "Rank":"3750",
+         "Car":"McLaren 570s Spider",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"9",
+            "Club BPS":"0",
+            "Credits":"250000",
+            "Tokens":"0"
+         }
+      },
+      "Stage25":{
+         "Rank":"3950",
+         "Car":"Lamborghini Aventador J",
+         "Rewards":{
+            "Packs":"1",
+            "Solo BPS":"9",
+            "Club BPS":"0",
+            "Credits":"250000",
+            "Tokens":"0"
+         }
+      },
+      "Stage26":{
+         "Rank":"2700",
+         "Car":"Ferrari LaFerrari Aperta",
+         "Rewards":{
+            "Packs":"0",
+            "Solo BPS":"0",
+            "Club BPS":"0",
+            "Credits":"1000000",
+            "Tokens":"2000"
+         }
+      }
+   }
+}
