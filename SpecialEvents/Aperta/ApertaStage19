@@ -1,0 +1,14 @@
+{
+   "Stage":{
+      "Name":"Stage 19",
+      "Rank":"3600",
+      "Car":"McLaren 570s Spider",
+      "Rewards":{
+         "Packs":"1",
+         "SoloBPS":"7",
+         "ClubBPS":"0",
+         "Credits":"200000",
+         "Tokens":"0"
+      }
+   }
+}
