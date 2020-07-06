@@ -1,0 +1,14 @@
+{
+   "Stage2":{
+      "Name":"Stage 2",
+      "Rank":"-",
+      "Car":"BMW Z4 LCI E89",
+      "Rewards":{
+         "Packs":"2",
+         "SoloBPS":"3",
+         "ClubBPS":"0",
+         "Credits":"200000",
+         "Tokens":"0"
+      }
+   }
+}
