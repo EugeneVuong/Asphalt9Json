@@ -1,0 +1,14 @@
+{
+   "Stage":{
+      "Name":"Stage 17",
+      "Rank":"3300",
+      "Car":"Mercedes-Benz SLR McLaren",
+      "Rewards":{
+         "Packs":"1",
+         "SoloBPS":"6",
+         "ClubBPS":"0",
+         "Credits":"200000",
+         "Tokens":"0"
+      }
+   }
+}
