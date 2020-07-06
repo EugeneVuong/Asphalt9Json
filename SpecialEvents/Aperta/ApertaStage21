@@ -1,0 +1,14 @@
+{
+   "Stage":{
+      "Name":"Stage 21",
+      "Rank":"3500",
+      "Car":"Ferrari LaFerrari Aperta",
+      "Rewards":{
+         "Packs":"0",
+         "SoloBPS":"0",
+         "ClubBPS":"0",
+         "Credits":"1000000",
+         "Tokens":"1200"
+      }
+   }
+}
