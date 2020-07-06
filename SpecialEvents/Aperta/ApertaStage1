@@ -1,0 +1,14 @@
+{
+	"Stage1": {
+		"Name": "Stage 1",
+		"Rank": "-",
+		"Car": "Ferrari LaFerrari Aperta (Free Try)",
+		"Rewards": {
+			"Packs": "3",
+			"SoloBPS": "9",
+			"ClubBPS": "1",
+			"Credits": "500000",
+			"Tokens": "500"
+		}
+	}
+}
