@@ -1,0 +1,14 @@
+{
+   "Stage":{
+      "Name":"Stage 8",
+      "Rank":"2200",
+      "Car":"Lamborghini Huracan Evo Spyder",
+      "Rewards":{
+         "Packs":"1",
+         "SoloBPS":"4",
+         "ClubBPS":"1",
+         "Credits":"200000",
+         "Tokens":"0"
+      }
+   }
+}
