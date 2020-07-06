@@ -1,0 +1,14 @@
+{
+   "Stage":{
+      "Name":"Stage 4",
+      "Rank":"-",
+      "Car":"Ferrari J50",
+      "Rewards":{
+         "Packs":"2",
+         "SoloBPS":"4",
+         "ClubBPS":"0",
+         "Credits":"200000",
+         "Tokens":"150"
+      }
+   }
+}
