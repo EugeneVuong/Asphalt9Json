@@ -1,0 +1,14 @@
+{
+   "Stage":{
+      "Name":"Stage 20",
+      "Rank":"3700",
+      "Car":"Lamborghini Aventador J",
+      "Rewards":{
+         "Packs":"1",
+         "SoloBPS":"7",
+         "ClubBPS":"0",
+         "Credits":"200000",
+         "Tokens":"0"
+      }
+   }
+}
