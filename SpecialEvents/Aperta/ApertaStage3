@@ -1,0 +1,14 @@
+{
+   "Stage":{
+      "Name":"Stage 3",
+      "Rank":"-",
+      "Car":"Chevrolet Corvette Grand Sport",
+      "Rewards":{
+         "Packs":"2",
+         "SoloBPS":"5",
+         "ClubBPS":"0",
+         "Credits":"200000",
+         "Tokens":"0"
+      }
+   }
+}
